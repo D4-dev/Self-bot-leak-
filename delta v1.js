@@ -1,4 +1,4 @@
-﻿const Discord = require("discord.js");
+const Discord = require("discord.js");
 require('colors')
 const client = new Discord.Client();
 const ConfigFile = require("./config.json")
